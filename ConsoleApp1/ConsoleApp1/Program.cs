@@ -20,6 +20,8 @@ namespace ConsoleApp1
             
             //Code to call Feature3
 
+            //Code to call Feature2
+
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
